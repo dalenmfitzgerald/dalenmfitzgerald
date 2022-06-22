@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dalen M. Fitzgerald!
 - 👀 I’m trying to better myself as both a person and programmer.
-- 🌱 I’m currently reviewing JavaScript, C# and SQL.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me, email.
 
